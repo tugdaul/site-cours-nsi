@@ -6,6 +6,8 @@
     "build": "vite build",
     "serve": "vite preview"
   },
+  "repository": "https://github.com/tugdaul/site-cours-nsi",
+  "license": "none",
   "devDependencies": {
     "sass": "^1.32.8",
     "vite": "^2.1.5"
